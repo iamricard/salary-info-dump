@@ -1,0 +1,230 @@
+salary,isRemote,companyHQ,companySize,jobType,jobRole,programmingLanguage,yearsOfExperience,seniorityLevel,gender,age,isEUCitizen,raceOrEthnicity,education
+41000,False,Spain,It's big,Full-time,Software Engineer,javascript,3,Mid-level,Male,25,True,white,Bootcamp
+80000,True,US,51-200,Full-time,Backend Engineer,Mostly JVM languages,15,Senior,Male,38,True,white,Masters (Licenciado/Master) - 4 years + master
+29000,False,Spain,It's big,Full-time,Frontend Engineer,javascript,4,Senior,Male,29,True,white,No formal education
+38000,False,Spain,51-200,Full-time,Backend Engineer,php,10,Lead,Male,38,True,white,PhD
+39000,False,Spain,201-500,Full-time,Backend Engineer,php,6,Senior,Male,27,True,,Masters (Licenciado/Master) - 4 years + master
+44000,True,Kuala Lumpur,51-200,Full-time,Backend Engineer,hacklang,7,Lead,Male,32,True,white,Undergraduate (Grado) - 4 years
+38000,False,Spain,51-200,Full-time,Systems administrator,shell,17,Senior,Male,34,True,white,Undergraduate (Grado) - 4 years
+30000,False,Spain,11-50,Full-time,Backend Engineer,javascript,2,Mid-level,Male,28,True,white,Community College (FP superior) - 2 years
+25000,False,Spain,11-50,Full-time,Software Engineer,,3,Senior,Male,27,True,white,Masters (Licenciado/Master) - 4 years + master
+31000,False,Spain,51-200,Full-time,Software Engineer,php,5,Mid-level,Male,25,True,,Community College (FP superior) - 2 years
+32000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,5,Mid-level,Male,25,True,,Undergraduate (Grado) - 4 years
+27000,False,Spain,51-200,Full-time,Software Engineer,php,3,Mid-level,Female,34,True,white,Undergraduate (Grado) - 4 years
+36000,False,Spain,51-200,Full-time,Sysadmin,python,7,Mid-level,Male,29,True,gitano,Undergraduate (Grado) - 4 years
+36000,False,Spain,51-200,Full-time,Sysadmin,python,7,Mid-level,Male,29,True,,Undergraduate (Grado) - 4 years
+47000,False,Spain,It's big,Full-time,Backend Engineer,"java, php",12,Lead,Male,36,True,,Masters (Licenciado/Master) - 4 years + master
+45000,False,Spain,51-200,Full-time,Backend Engineer,php,15,Lead,Male,34,True,white,Masters (Licenciado/Master) - 4 years + master
+40000,False,Spain,11-50,Full-time,Software Engineer,javascript,1,Junior,Female,27,False,white,Bootcamp
+30000,True,Spain,2-10,Full-time,Backend Engineer,php,10,Senior,Male,30,True,white,No formal education
+35000,False,Spain,2-10,Full-time,Backend Engineer,php,16,Lead,Male,37,True,white,Community College (FP superior) - 2 years
+38000,False,Spain,51-200,Full-time,Software Engineer,C#,5,Senior,Male,29,True,,Undergraduate (Grado) - 4 years
+50000,False,Spain,201-500,Full-time,Software Engineer,go,10,Senior,Male,34,True,white,Masters (Licenciado/Master) - 4 years + master
+44000,False,USA,51-200,Full-time,Software Engineer,php,12,Senior,Male,34,True,white,Masters (Licenciado/Master) - 4 years + master
+27000,False,Spain,2-10,Full-time,Backend Engineer,php,5,Senior,Male,25,True,white,Community College (FP superior) - 2 years
+40000,False,Spain,51-200,Full-time,Backend Engineer,php,4,Senior,Male,25,True,white,Undergraduate (Grado) - 4 years
+33000,False,Spain,51-200,Full-time,Software Engineer,php,3,Senior,Male,24,True,white,Community College (FP superior) - 2 years
+60000,False,Spain,2-10,Full-time,Software Engineer,php,15,CTO,Male,40,True,white,Undergraduate (Grado) - 4 years
+35000,False,Spain,It's big,Full-time,Software Engineer,java,6,Senior,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+38000,False,Spain,11-50,Full-time,Backend Engineer,php,5,Senior,Male,35,True,,Undergraduate (Grado) - 4 years
+40000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,3,Senior,Prefer not to say,25,True,,Community College (FP superior) - 2 years
+44000,False,Spain,201-500,Full-time,Backend Engineer,php,8,Senior,Male,34,True,white,Masters (Licenciado/Master) - 4 years + master
+33000,False,Netherlands,11-50,Full-time,Backend Engineer,php,4,Mid-level,Male,25,True,white,Community College (FP superior) - 2 years
+35000,False,Spain,11-50,Full-time,Backend Engineer,php,3,Mid-level,Male,26,True,white,Undergraduate - Non-engineer
+27000,False,Spain,11-50,Full-time,Full stack,php,5,Senior,Male,29,False,white,Community College (FP superior) - 2 years
+65000,False,Spain,11-50,Full-time,CTO,shell,8,CTO,Male,23,True,white,Community College (FP superior) - 2 years
+34000,False,Spain,11-50,Full-time,Full-stack developer,kotlin,10,Senior,Male,36,True,,Masters (Licenciado/Master) - 4 years + master
+45000,False,Switzerland,11-50,Full-time,Frontend Engineer,javascript,6,Senior,Male,27,True,white,Masters (Licenciado/Master) - 4 years + master
+35000,False,Spain,51-200,Full-time,Tech manager,php,6,Lead,Male,30,True,white,No formal education
+38000,False,EEUU,201-500,Full-time,Software Engineer,php,6,Senior,Male,28,False,white,Masters (Licenciado/Master) - 4 years + master
+36000,True,Spain,11-50,Full-time,Backend Engineer,php,5,Senior,Male,33,True,white,Masters (Licenciado/Master) - 4 years + master
+28000,False,Spain,11-50,Full-time,Software Engineer,ruby,2,Mid-level,Male,26,True,white,Undergraduate (Grado) - 4 years
+40000,False,Spain,201-500,Full-time,Backend Engineer,php,13,Lead,Male,36,True,white,Masters (Licenciado/Master) - 4 years + master
+48000,False,Worldwide,51-200,Full-time,Software Engineer,php,14,Senior,Male,34,True,white,Undergraduate (Grado) - 4 years
+32000,False,Spain,2-10,Full-time,Data Scientist,r,2,Mid-level,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+42500,False,Spain,It's big,Full-time,Backend Engineer,java,10,Senior,Male,21,True,,Community College (FP superior) - 2 years
+34000,False,Spain,It's big,Full-time,Software Engineer,php,4,Mid-level,Male,26,True,white,Undergraduate (Grado) - 4 years
+127000,True,EE UU,11-50,Full-time,Backend Engineer,java,8,Senior,Male,30,True,white,Undergraduate (Grado) - 4 years
+34000,False,Spain,51-200,Full-time,Backend Engineer,php,5,Senior,Male,31,True,white,Undergraduate (Grado) - 4 years
+45000,False,Spain,It's big,Part-time,Backend Engineer,java,12,Senior,Male,32,True,white,No formal education
+84000,False,Spain,51-200,Full-time,Tech Lead,"ruby, scala, javascript",17,Lead,Male,37,True,white,No formal education
+54000,False,Spain,51-200,Full-time,Systems Engineer,go,12,Lead,Male,32,True,white,Community College (FP superior) - 2 years
+45000,False,Spain,11-50,Full-time,QA Engineer,python,11,Lead,Male,35,True,,Masters (Licenciado/Master) - 4 years + master
+55000,True,USA,51-200,Full-time,Backend Engineer,php,13,Senior,Male,33,True,white,Undergraduate (Grado) - 4 years
+52000,False,Spain,It's big,Full-time,Software Engineer,java,10,Lead,Male,31,True,white,Undergraduate (Grado) - 4 years
+40000,False,Spain,11-50,Full-time,Backend Engineer,spanish,7,Senior,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+40000,True,Spain,11-50,Full-time,Backend Engineer,php,7,Senior,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+27500,False,england and spain,2-10,Full-time,iOS Engineer,swift,1,Junior,Female,26,True,white,Undergraduate (Grado) - 4 years
+38000,False,Spain,51-200,Full-time,Software Engineer,php,3,Mid-level,Male,30,True,-,Masters (Licenciado/Master) - 4 years + master
+46000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,7,Senior,Male,30,True,,Masters - Non-engineer
+24000,False,Spain,11-50,Full-time,Backend Engineer,php,3,Mid-level,Male,27,True,,Undergraduate (Grado) - 4 years
+54000,False,Spain,51-200,Full-time,QA Engineer,ruby,0,Senior,Prefer not to say,23,True,white,No formal education
+27000,False,Spain,51-200,Full-time,Android Engineer,java,3,Mid-level,Female,30,True,white,Masters (Licenciado/Master) - 4 years + master
+45000,False,Spain,51-200,Full-time,Backend Engineer,go,13,Senior,Male,32,False,white,Masters (Licenciado/Master) - 4 years + master
+25000,False,Spain,11-50,Full-time,Backend Engineer,php,3,Mid-level,Male,25,True,white,Masters (Licenciado/Master) - 4 years + master
+44000,False,Norway,It's big,Full-time,Software Engineer,python,10,Mid-level,Male,39,True,,Undergraduate (Grado) - 4 years
+35000,False,Spain,51-200,Full-time,Backend Engineer,scala,2,Mid-level,Male,23,True,white,Undergraduate (Grado) - 4 years
+50000,False,Spain,51-200,Full-time,Backend Engineer,scala,10,Lead,Male,31,True,white,Undergraduate (Grado) - 4 years
+45000,False,Spain,11-50,Full-time,Software Engineer,php,6,Senior,Male,30,True,,Masters (Licenciado/Master) - 4 years + master
+32500,True,Spain,11-50,Full-time,Software Engineer,php,6,Lead,Male,33,True,white,Community College (FP superior) - 2 years
+45000,True,Spain,2-10,Full-time,Other Mobile Engineer,javascript,10,Lead,Male,32,True,white,Masters (Licenciado/Master) - 4 years + master
+48000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,15,Senior,Male,35,True,white,Community College (FP superior) - 2 years
+42000,False,Spain,201-500,Full-time,Backend Engineer,go,5,Senior,Male,30,True,,Undergraduate (Grado) - 4 years
+35000,False,Spain,51-200,Full-time,QA Engineer,ruby,3,Mid-level,Male,25,True,white,Undergraduate (Grado) - 4 years
+60000,False,Spain,51-200,Full-time,Backend Engineer,php,7,Lead,Male,31,True,white,Community College (FP superior) - 2 years
+50000,False,Spain,51-200,Full-time,Backend Engineer,php,6,Senior,Male,25,True,white,Undergraduate (Grado) - 4 years
+40000,False,Spain,It's big,Full-time,Backend Engineer,php,9,Senior,Male,34,True,,Undergraduate (Grado) - 4 years
+38000,False,United Kingdom,201-500,Full-time,Backend Engineer,php,10,Senior,Male,38,True,white,Community College (FP superior) - 2 years
+35000,False,Spain,201-500,Full-time,Software Engineer,php,10,Senior,Male,34,False,white,Community College (FP superior) - 2 years
+32000,False,Spain,2-10,Full-time,Backend Engineer,php,10,Lead,Male,29,True,white,Undergraduate (Grado) - 4 years
+27000,False,Spain,11-50,Full-time,Fullstack Engineer,php,8,Senior,Male,33,True,white,Community College (FP superior) - 2 years
+36000,False,Spain,11-50,Full-time,Backend Engineer,php,10,Senior,Male,32,True,,Undergraduate (Grado) - 4 years
+28000,False,Spain,51-200,Full-time,Backend Engineer,php,2,Mid-level,Male,35,True,white,Community College (FP superior) - 2 years
+55000,False,UK,It's big,Full-time,Backend Engineer,python,10,Mid-level,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+50000,False,Spain,51-200,Full-time,Systems Engineer,shell,15,Lead,Male,35,True,white,Community College (FP superior) - 2 years
+29000,False,Spain,11-50,Full-time,Backend Engineer,php,2,Mid-level,Male,28,True,white,Community College (FP superior) - 2 years
+40000,True,Spain,201-500,Full-time,Software Engineer,-,3,Mid-level,Male,28,True,,Undergraduate (Grado) - 4 years
+29000,True,Spain,2-10,Full-time,Software Engineer,ruby,4,Senior,Male,34,True,white,Masters (Licenciado/Master) - 4 years + master
+54000,False,Spain,51-200,Full-time,Backend Engineer,go,10,Lead,Male,34,False,white,Masters (Licenciado/Master) - 4 years + master
+34000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,3,Senior,Male,40,True,white,No formal education
+43000,False,Spain,51-200,Full-time,Backend Engineer,php,15,Lead,Male,45,True,white,Masters (Licenciado/Master) - 4 years + master
+32000,False,Spain,201-500,Full-time,Backend Engineer,go,12,Senior,Male,36,True,mestizo,Masters (Licenciado/Master) - 4 years + master
+37000,False,Spain,201-500,Full-time,Software Engineer,php,11,Senior,Male,32,True,white,Undergraduate (Grado) - 4 years
+43000,False,Spain,51-200,Full-time,Backend Engineer,go,3,Mid-level,Female,26,True,white,Undergraduate - Non-engineer
+35000,False,Spain,It's big,Full-time,Frontend Engineer,javascript,5,Senior,Male,29,True,white,No formal education
+33000,False,Spain,201-500,Full-time,Backend Engineer,java,11,Senior,Male,35,True,white,Masters (Licenciado/Master) - 4 years + master
+19000,False,Spain,2-10,Full-time,Backend Engineer,php,2,Mid-level,Male,25,True,white,Community College (FP superior) - 2 years
+50000,False,Germany,It's big,Full-time,Frontend Engineer,javascript,12,Mid-level,Male,33,True,white,Masters (Licenciado/Master) - 4 years + master
+30000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,3,Senior,Male,32,True,,Community College (FP superior) - 2 years
+41000,False,Spain,51-200,Full-time,Backend Engineer,go,4,Mid-level,Male,28,True,white,Community College (FP superior) - 2 years
+40000,False,Spain,2-10,Full-time,Software Engineer,python,12,Senior,Male,33,True,white,Masters (Licenciado/Master) - 4 years + master
+33000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,5,Mid-level,Male,28,False,latino,Undergraduate (Grado) - 4 years
+65000,True,USA,2-10,Full-time,Backend Engineer,php,12,Senior,Male,32,True,,Community College (FP superior) - 2 years
+38000,False,Spain,11-50,Full-time,Backend Engineer,php,5,Senior,Male,32,True,white,Undergraduate (Grado) - 4 years
+21000,False,Spain,It's big,Part-time,Software Engineer,lua,3,Mid-level,Prefer not to say,25,True,,No formal education
+90000,False,Spain,51-200,Full-time,CTO,php,15,CTO,Male,37,True,white,Masters (Licenciado/Master) - 4 years + master
+40500,False,Spain,201-500,Full-time,Backend Engineer,php,16,Lead,Male,39,True,white,Undergraduate (Grado) - 4 years
+35000,False,Spain,51-200,Full-time,Software Engineer,php,7,Lead,Male,36,True,white,Masters (Licenciado/Master) - 4 years + master
+55000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,10,Lead,Male,32,True,white,Undergraduate (Grado) - 4 years
+50000,False,Spain,2-10,Freelance,Backend Engineer,scala,5,Senior,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+28000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,5,Mid-level,Female,42,True,white,Undergraduate (Grado) - 4 years
+42000,False,UK,It's big,Full-time,iOS Engineer,objective-c,8,Senior,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+5000,False,Spain,51-200,Full-time,Backend Engineer,java,12,Senior,Male,33,True,white,Community College (FP superior) - 2 years
+40000,False,Spain,2-10,Full-time,Software Engineer,php,10,Mid-level,Male,29,False,,Masters (Licenciado/Master) - 4 years + master
+57500,False,Spain,2-10,Full-time,Manager,C#,15,CTO,Male,38,True,white,Masters (Licenciado/Master) - 4 years + master
+41000,False,Spain,51-200,Full-time,Software Engineer,php,8,Mid-level,Male,31,True,white,Masters (Licenciado/Master) - 4 years + master
+45000,False,Spain,2-10,Full-time,Software Engineer,scala,8,Senior,Male,33,True,white,Masters (Licenciado/Master) - 4 years + master
+90000,True,USA,2-10,Freelance,Frontend Engineer,javascript,7,Lead,Male,29,True,-,Masters (Licenciado/Master) - 4 years + master
+28000,False,Spain,51-200,Full-time,Backend Engineer,php,2,Mid-level,Female,28,True,,Masters (Licenciado/Master) - 4 years + master
+39000,False,Spain,11-50,Full-time,Manager,php,11,Lead,Male,33,True,white,Masters (Licenciado/Master) - 4 years + master
+45000,False,Spain,51-200,Full-time,Backend Engineer,scala,6,Senior,Male,27,True,white,Undergraduate (Grado) - 4 years
+51000,False,Spain,51-200,Full-time,Backend Engineer,php,3,Senior,Male,27,True,white,Masters (Licenciado/Master) - 4 years + master
+26000,False,Spain,11-50,Full-time,Backend Engineer,php,18,Senior,Male,40,True,white,Community College (FP superior) - 2 years
+28000,False,Spain,11-50,Full-time,Backend Engineer,php,15,Senior,Male,46,True,white,Community College (FP superior) - 2 years
+43000,False,Spain,It's big,Full-time,Software Engineer,java,6,Mid-level,Male,28,True,white,Community College (FP superior) - 2 years
+45000,False,Spain,51-200,Full-time,Software Engineer,java,8,Senior,Male,35,True,white,Masters (Licenciado/Master) - 4 years + master
+55000,False,Spain,51-200,Full-time,Backend Engineer,java,10,Lead,Male,38,True,white,Masters (Licenciado/Master) - 4 years + master
+27000,False,Spain,201-500,Full-time,Software Engineer,javascript,5,Senior,Male,24,True,white,Undergraduate (Grado) - 4 years
+45000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,6,Mid-level,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+38000,False,Germany,It's big,Full-time,Backend Engineer,C#,8,Senior,Male,33,True,white,Community College (FP superior) - 2 years
+35000,False,Spain,51-200,Full-time,Manager,php,9,Lead,Male,27,True,,Community College (FP superior) - 2 years
+60000,False,Norway,It's big,Full-time,Backend Engineer,java,8,Senior,Male,31,True,white,Masters (Licenciado/Master) - 4 years + master
+45000,False,Spain,51-200,Full-time,Backend Engineer,"java, php",6,Lead,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+78000,True,Spain,11-50,Full-time,iOS Engineer,objective-c,15,Lead,Male,36,True,,PhD
+60000,True,Spain,201-500,Full-time,Systems Engineer,"python, java, go",15,Senior,Male,32,True,white,Masters (Licenciado/Master) - 4 years + master
+36000,False,Spain,2-10,Full-time,Software Engineer,C#,8,CTO,Male,30,True,white,Undergraduate (Grado) - 4 years
+42000,False,Worldwide,51-200,Full-time,Frontend Engineer,javascript,10,Senior,Male,33,True,white,Community College (FP superior) - 2 years
+31000,False,Spain,51-200,Full-time,Backend Engineer,php,4,Mid-level,Male,31,True,white,Masters (Licenciado/Master) - 4 years + master
+60000,False,Spain,201-500,Full-time,Backend Engineer,php,10,Lead,Male,28,True,,No formal education
+50000,True,Spain,11-50,Full-time,Manager,php,19,Lead,Male,42,True,white,PhD - Non-engineer
+17000,False,Spain,It's big,Full-time,Software Engineer,scala,0,Junior,Male,23,True,white,Masters (Licenciado/Master) - 4 years + master
+55000,False,Spain,It's big,Full-time,Software Engineer,java,7,Mid-level,Male,28,True,,Undergraduate (Grado) - 4 years
+33000,False,Spain,It's big,Full-time,Software Engineer,scala,4,Mid-level,Male,25,True,white,Undergraduate (Grado) - 4 years
+65000,False,Spain,51-200,Full-time,Data Engineer,java,6,Lead,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+60000,True,Spain,Just me,Freelance,Software Engineer,javascript,4,Senior,Male,23,True,white,Community College (FP superior) - 2 years
+30000,True,Spain,11-50,Full-time,Backend Engineer,php,5,Mid-level,Male,28,True,white,Undergraduate (Grado) - 4 years
+30000,False,Spain,11-50,Full-time,Backend Engineer,php,8,Senior,Prefer not to say,31,True,black,PhD
+40000,False,Spain,51-200,Full-time,Android Engineer,kotlin,7,Lead,Male,28,True,,PhD
+27000,False,Spain,51-200,Full-time,Systems Engineer,shell,12,Mid-level,Female,35,True,white,Community College (FP superior) - 2 years
+46000,False,Spain,It's big,Full-time,Systems Engineer,python,5,Senior,Male,32,True,white,Masters (Licenciado/Master) - 4 years + master
+42000,False,Spain,51-200,Full-time,Backend Engineer,javascript,4,Senior,Male,29,True,,Undergraduate (Grado) - 4 years
+35000,False,Spain,11-50,Full-time,Frontend Engineer,JavaScript,10,Lead,Male,31,True,,Undergraduate (Grado) - 4 years
+40000,False,Spain,2-10,Full-time,Software Engineer,php,7,Senior,Male,27,True,,Undergraduate (Grado) - 4 years
+35000,True,Spain,Just me,Freelance,Devops Engineer,ruby,5,Mid-level,Male,27,True,white,Undergraduate (Grado) - 4 years
+30000,False,Spain,51-200,Full-time,Systems Engineer,"python, shell, perl",10,Lead,Male,40,True,white,Community College (FP superior) - 2 years
+40000,False,Spain,51-200,Full-time,Backend Engineer,php,5,Senior,Male,23,True,white,Community College (FP superior) - 2 years
+9600,False,Spain,11-50,Part-time,Data Scientist,python,2,Junior,Male,24,True,white,Masters (Licenciado/Master) - 4 years + master
+15000,False,Spain,2-10,Full-time,Fullstack developer,javascript,2,Junior,Male,24,True,,Undergraduate (Grado) - 4 years
+55000,False,Spain,51-200,Full-time,Backend Engineer,go,6,Lead,Male,30,True,,Undergraduate (Grado) - 4 years
+60000,False,Spain,11-50,Full-time,iOS Engineer,swift,13,Lead,Male,38,True,white,Undergraduate (Grado) - 4 years
+35000,False,Spain,11-50,Full-time,Manager,php,18,CTO,Male,38,True,white,Undergraduate - Non-engineer
+18000,False,Spain,201-500,Full-time,Backend Engineer,php,1,Mid-level,Male,21,True,white,Community College (FP superior) - 2 years
+40000,False,Spain,51-200,Full-time,Backend Engineer,java,5,Senior,Male,30,True,white,Community College (FP superior) - 2 years
+50000,False,Spain,2-10,Full-time,Systems Engineer,-,15,Lead,Female,35,True,white,Undergraduate (Grado) - 4 years
+60000,False,Spain,51-200,Full-time,Software Engineer,go,7,Lead,Male,27,True,white,Community College (FP superior) - 2 years
+24000,False,Spain,51-200,Full-time,Backend Engineer,java,2,Junior,Male,25,True,white,Undergraduate (Grado) - 4 years
+36000,False,Spain,11-50,Full-time,iOS Engineer,swift,5,Senior,Male,28,True,white,Masters (Licenciado/Master) - 4 years + master
+28000,False,Spain,It's big,Full-time,Backend Engineer,php,4,Junior,Male,25,True,,Community College (FP superior) - 2 years
+40000,False,Spain,51-200,Full-time,Backend Engineer,php,10,Senior,Male,36,True,white,Masters (Licenciado/Master) - 4 years + master
+60000,False,Spain,51-200,Full-time,Systems Engineer,puppet,13,Senior,Male,36,True,,Community College (FP superior) - 2 years
+25000,False,Spain,2-10,Full-time,Backend Engineer,php,15,Lead,Male,38,True,white,Undergraduate (Grado) - 4 years
+29000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,5,Mid-level,Male,32,True,white,Masters (Licenciado/Master) - 4 years + master
+40000,False,Spain,51-200,Full-time,Backend Engineer,php,4,Senior,Male,30,True,white,Community College (FP superior) - 2 years
+72000,False,Spain,It's big,Full-time,Android Engineer,java,12,Lead,Male,33,True,white,No formal education
+20000,False,Spain,11-50,Full-time,Frontend Engineer,javascript,1,Junior,Male,23,True,,Community College (FP superior) - 2 years
+42000,False,Spain,11-50,Full-time,Software Engineer,php,5,Senior,Male,26,True,white,Community College (FP superior) - 2 years
+53000,False,Spain,201-500,Full-time,Backend Engineer,go,8,Senior,Male,34,True,white,Masters (Licenciado/Master) - 4 years + master
+37000,False,UK,It's big,Full-time,Software Engineer,python,1,Junior,Female,25,True,white,Masters (Licenciado/Master) - 4 years + master
+27000,False,Spain,51-200,Full-time,Backend Engineer,php,4,Mid-level,Male,29,True,white,Undergraduate (Grado) - 4 years
+60000,True,Spain,201-500,Freelance,Software Engineer,C#,10,Lead,Male,36,True,white,Masters (Licenciado/Master) - 4 years + master
+30000,False,Spain,2-10,Full-time,iOS Engineer,"objective-c, swift",2,Senior,Female,25,True,white,Undergraduate (Grado) - 4 years
+22000,False,Spain,51-200,Full-time,Backend Engineer,ruby,4,Junior,Male,30,True,,Bootcamp
+40000,False,Spain,11-50,Full-time,Frontend Engineer,javascript,19,Senior,Male,44,True,white,Undergraduate (Grado) - 4 years
+45000,False,UK,201-500,Full-time,Software Engineer,php,5,Mid-level,Male,27,True,white,Masters (Licenciado/Master) - 4 years + master
+40000,False,Spain,51-200,Full-time,UX/UI,-,3,Mid-level,Male,24,True,,Undergraduate (Grado) - 4 years
+35000,False,Spain,2-10,Full-time,Backend Engineer,php,12,Senior,Male,44,True,,Undergraduate - Non-engineer
+22000,False,Spain,51-200,Full-time,Full-stack,javascript,4,Mid-level,Male,24,True,white,Community College (FP superior) - 2 years
+46000,False,Spain,201-500,Full-time,Manager,java,10,Lead,Male,33,True,white,Masters (Licenciado/Master) - 4 years + master
+43000,False,Spain,201-500,Full-time,Backend Engineer,php,5,Senior,Male,27,True,white,Masters (Licenciado/Master) - 4 years + master
+47000,False,Spain,It's big,Full-time,QA Engineer,ruby,7,Mid-level,Female,33,True,white,Masters (Licenciado/Master) - 4 years + master
+33000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,9,Senior,Male,32,True,white,Community College (FP superior) - 2 years
+44000,False,Spain,It's big,Full-time,Backend Engineer,java,11,Senior,Male,34,True,white,Masters (Licenciado/Master) - 4 years + master
+33500,False,Spain,51-200,Full-time,Frontend Engineer,javascript,4,Mid-level,Male,27,True,white,Community College (FP superior) - 2 years
+35000,False,Spain,51-200,Full-time,Software Engineer,javascript,6,Senior,Male,30,True,white,Masters (Licenciado/Master) - 4 years + master
+11000,False,Spain,51-200,Part-time,Frontend Engineer,html + css,1,Junior,Male,26,True,white,Community College (FP superior) - 2 years
+43000,False,Spain,51-200,Full-time,Backend Engineer,php,10,Senior,Male,33,True,white,Community College (FP superior) - 2 years
+41000,False,Spain,11-50,Full-time,Backend Engineer,php,10,CTO,Male,35,True,white,Undergraduate (Grado) - 4 years
+35000,True,Germany,11-50,Full-time,Frontend Engineer,javascript,2,Mid-level,Male,32,True,white,Bootcamp
+33000,False,Spain,,Full-time,Backend Engineer,php,5,Senior,Female,35,True,,Masters (Licenciado/Master) - 4 years + master
+13000,False,Spain,It's big,Full-time,Frontend Engineer,javascript,1,Junior,Male,24,True,white/japanese,Community College (FP superior) - 2 years
+59000,False,USA,It's big,Full-time,Software Engineer,php,10,Senior,Male,27,False,,Masters (Licenciado/Master) - 4 years + master
+48000,False,Spain,51-200,Full-time,Software Engineer,php,20,Senior,Male,43,True,,Masters (Licenciado/Master) - 4 years + master
+34000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,8,Senior,Male,35,True,white,Undergraduate (Grado) - 4 years
+25000,False,Spain,11-50,Full-time,Frontend Engineer,javascript,2,Junior,Male,25,True,white,Undergraduate (Grado) - 4 years
+36000,False,Spain,201-500,Full-time,Systems Engineer,python,15,Lead,Male,39,True,white,Masters (Licenciado/Master) - 4 years + master
+115000,True,UK,11-50,Freelance,Manager,scala,17,Lead,Male,39,True,,Masters (Licenciado/Master) - 4 years + master
+39000,False,Spain,It's big,Full-time,Software Engineer,python,25,Lead,Male,50,True,white,Undergraduate (Grado) - 4 years
+52000,False,USA,It's big,Full-time,Tech lead,javascript,6,Senior,Male,27,True,White,No formal education
+42000,False,USA,It's big,Full-time,Frontend Engineer,javascript,4,Mid-level,Male,32,True,white,Community College (FP superior) - 2 years
+45000,False,Spain,2-10,Full-time,Backend Engineer,python,10,CTO,Prefer not to say,32,True,,Undergraduate (Grado) - 4 years
+24000,True,Spain,2-10,Full-time,Software Engineer,ruby,2,Junior,Male,27,True,white,Undergraduate - Non-engineer
+40000,False,Spain,11-50,Full-time,Backend Engineer,php,5,Senior,Male,29,True,white,Undergraduate (Grado) - 4 years
+100500,False,USA,It's big,Full-time,UX/UI,-,10,Senior,Male,32,True,,No formal education
+55000,False,Spain,51-200,Freelance,Frontend Engineer,javascript,10,Mid-level,Male,34,True,,Undergraduate (Grado) - 4 years
+28000,False,Spain,11-50,Full-time,Fullstack Developer,ruby,0,Junior,Male,27,True,white,Bootcamp
+25000,False,Japan,51-200,Full-time,Backend Engineer,ruby,2,Junior,Male,32,True,white,Bootcamp
+46200,False,Spain,11-50,Full-time,Frontend Engineer,javascript,10,Junior,Male,27,True,white,Community College (FP superior) - 2 years
+47000,False,US,51-200,Full-time,Backend Engineer,java,10,Senior,Male,33,True,white,Masters (Licenciado/Master) - 4 years + master
+49000,False,USA,It's big,Full-time,Frontend Engineer,javascript,7,Senior,Male,29,True,white,Masters (Licenciado/Master) - 4 years + master
+49000,False,USA,201-500,Full-time,Software Engineer,swift,15,Senior,Male,37,False,,Masters (Licenciado/Master) - 4 years + master
+28000,False,UK,11-50,Full-time,Frontend Engineer,javascript,0,Junior,Male,35,True,white,Bootcamp
+36000,True,Spain,11-50,Full-time,Software Engineer,php,9,Mid-level,Male,35,True,white,Undergraduate - Non-engineer
+18000,False,Spain,11-50,Full-time,Backend Engineer,ruby,0,Intern,Male,32,True,white,Undergraduate (Grado) - 4 years
+38000,False,Spain,51-200,Full-time,Fullstack developer,php,7,Senior,Male,29,True,,Community College (FP superior) - 2 years
+135000,True,"California, USA",11-50,Full-time,Software Engineer,javascript,9,Senior,Non-binary,29,False,white,Undergraduate - Non-engineer
+18000,False,Spain,51-200,Full-time,Backend Engineer,php,0,Junior,Male,19,True,,Undergraduate (Grado) - 4 years
+28000,True,Spain,201-500,Full-time,Backend Engineer,php,4,Mid-level,Female,38,True,,Community College (FP superior) - 2 years
+24000,False,Spain,2-10,Full-time,Software Engineer,ruby,2,Mid-level,Male,28,True,white,Bootcamp
+40000,False,Spain,51-200,Full-time,Frontend Engineer,javascript,10,Senior,Male,34,True,white,Undergraduate (Grado) - 4 years
+27000,False,Spain,It's big,Full-time,Backend Engineer,java,4,Mid-level,Male,33,True,white,Masters - Non-engineer
+57000,False,Germany,It's big,Full-time,iOS Engineer,objective-c,18,Senior,Male,41,True,white,Some College
