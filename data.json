@@ -13,7 +13,8 @@
     "age": "25",
     "isEUCitizen": "Yes",
     "raceOrEthnicity": "white",
-    "education": "Bootcamp"
+    "education": "Bootcamp",
+    "company": "XING AG"
   },
   {
     "salary": "80000",
