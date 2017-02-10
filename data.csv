@@ -1,5 +1,5 @@
 salary,isRemote,companyHQ,companySize,jobType,jobRole,programmingLanguage,yearsOfExperience,seniorityLevel,gender,age,isEUCitizen,raceOrEthnicity,education
-41000,False,Spain,It's big,Full-time,Software Engineer,javascript,3,Mid-level,Male,25,True,white,Bootcamp
+41000,False,Spain,It's big,Full-time,Software Engineer,javascript,3,Mid-level,Male,25,True,white,Bootcamp,XING AG
 80000,True,US,51-200,Full-time,Backend Engineer,Mostly JVM languages,15,Senior,Male,38,True,white,Masters (Licenciado/Master) - 4 years + master
 29000,False,Spain,It's big,Full-time,Frontend Engineer,javascript,4,Senior,Male,29,True,white,No formal education
 38000,False,Spain,51-200,Full-time,Backend Engineer,php,10,Lead,Male,38,True,white,PhD
